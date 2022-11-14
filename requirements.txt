@@ -1,0 +1,4 @@
+Before starting, make sure that you have installed :
+- numpy
+- matplotlib
+- ipympl
